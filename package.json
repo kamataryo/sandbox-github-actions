@@ -1,0 +1,11 @@
+{
+  "name": "sandbox-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/sandbox-github-actions.git",
+  "author": "kamataryo <mugil.cephalus+Ciconia.local@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo hello!"
+  }
+}
