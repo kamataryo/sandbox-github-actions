@@ -21,3 +21,8 @@ jobs:
           yarn test
         env:
           CI: true
+      - name: Typical machine type
+        run: |
+          cat /etc/issue
+          cat /proc/cpuinfo
+          cat /proc/meminfo
